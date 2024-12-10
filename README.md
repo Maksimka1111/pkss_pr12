@@ -1,7 +1,4 @@
 ```mermaid
----
-title: Example Git diagram
----
 gitGraph 
    commit id:"init project"
    commit id: "Настройка конфигуарции"
